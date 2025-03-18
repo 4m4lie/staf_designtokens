@@ -1,0 +1,138 @@
+{
+  "font-size": {
+    "1": {
+      "value": 13,
+      "type": "number"
+    },
+    "2": {
+      "value": 16,
+      "type": "number"
+    },
+    "3": {
+      "value": 18,
+      "type": "number"
+    },
+    "4": {
+      "value": 21,
+      "type": "number"
+    },
+    "5": {
+      "value": 24,
+      "type": "number"
+    },
+    "6": {
+      "value": 30,
+      "type": "number"
+    },
+    "7": {
+      "value": 36,
+      "type": "number"
+    },
+    "8": {
+      "value": 48,
+      "type": "number"
+    },
+    "9": {
+      "value": 60,
+      "type": "number"
+    },
+    "10": {
+      "value": 72,
+      "type": "number"
+    }
+  },
+  "_size": {
+    "0": {
+      "value": 0,
+      "type": "number"
+    },
+    "1": {
+      "value": 4,
+      "type": "number"
+    },
+    "2": {
+      "value": 9,
+      "type": "number"
+    },
+    "3": {
+      "value": 13,
+      "type": "number"
+    },
+    "4": {
+      "value": 18,
+      "type": "number"
+    },
+    "5": {
+      "value": 23,
+      "type": "number"
+    },
+    "6": {
+      "value": 27,
+      "type": "number"
+    },
+    "7": {
+      "value": 32,
+      "type": "number"
+    },
+    "8": {
+      "value": 37,
+      "type": "number"
+    },
+    "9": {
+      "value": 41,
+      "type": "number"
+    },
+    "10": {
+      "value": 46,
+      "type": "number"
+    },
+    "11": {
+      "value": 51,
+      "type": "number"
+    },
+    "12": {
+      "value": 55,
+      "type": "number"
+    },
+    "13": {
+      "value": 60,
+      "type": "number"
+    },
+    "14": {
+      "value": 65,
+      "type": "number"
+    },
+    "15": {
+      "value": 69,
+      "type": "number"
+    },
+    "18": {
+      "value": 83,
+      "type": "number"
+    },
+    "22": {
+      "value": 102,
+      "type": "number"
+    },
+    "26": {
+      "value": 121,
+      "type": "number"
+    },
+    "30": {
+      "value": 139,
+      "type": "number"
+    },
+    "mode-font-size": {
+      "value": 21,
+      "type": "number"
+    },
+    "base": {
+      "value": 18,
+      "type": "number"
+    },
+    "step": {
+      "value": 4,
+      "type": "number"
+    }
+  }
+}
