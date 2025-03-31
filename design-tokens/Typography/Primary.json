@@ -6,11 +6,11 @@
     },
     "font-weight": {
       "medium": {
-        "value": "Medium",
+        "value": "SemiBold",
         "type": "text"
       },
       "semibold": {
-        "value": "Semi Bold",
+        "value": "Bold",
         "type": "text"
       },
       "regular": {
