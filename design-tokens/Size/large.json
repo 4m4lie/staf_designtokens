@@ -1,138 +1,138 @@
 {
   "font-size": {
     "1": {
-      "value": 13,
-      "type": "number"
+      "value": "13px",
+      "type": "dimension"
     },
     "2": {
-      "value": 16,
-      "type": "number"
+      "value": "16px",
+      "type": "dimension"
     },
     "3": {
-      "value": 18,
-      "type": "number"
+      "value": "18px",
+      "type": "dimension"
     },
     "4": {
-      "value": 21,
-      "type": "number"
+      "value": "21px",
+      "type": "dimension"
     },
     "5": {
-      "value": 24,
-      "type": "number"
+      "value": "24px",
+      "type": "dimension"
     },
     "6": {
-      "value": 30,
-      "type": "number"
+      "value": "30px",
+      "type": "dimension"
     },
     "7": {
-      "value": 36,
-      "type": "number"
+      "value": "36px",
+      "type": "dimension"
     },
     "8": {
-      "value": 48,
-      "type": "number"
+      "value": "48px",
+      "type": "dimension"
     },
     "9": {
-      "value": 60,
-      "type": "number"
+      "value": "60px",
+      "type": "dimension"
     },
     "10": {
-      "value": 72,
-      "type": "number"
+      "value": "72px",
+      "type": "dimension"
     }
   },
   "_size": {
     "0": {
-      "value": 0,
-      "type": "number"
+      "value": "0px",
+      "type": "dimension"
     },
     "1": {
-      "value": 4,
-      "type": "number"
+      "value": "4px",
+      "type": "dimension"
     },
     "2": {
-      "value": 9,
-      "type": "number"
+      "value": "9px",
+      "type": "dimension"
     },
     "3": {
-      "value": 13,
-      "type": "number"
+      "value": "13px",
+      "type": "dimension"
     },
     "4": {
-      "value": 18,
-      "type": "number"
+      "value": "18px",
+      "type": "dimension"
     },
     "5": {
-      "value": 23,
-      "type": "number"
+      "value": "23px",
+      "type": "dimension"
     },
     "6": {
-      "value": 27,
-      "type": "number"
+      "value": "27px",
+      "type": "dimension"
     },
     "7": {
-      "value": 32,
-      "type": "number"
+      "value": "32px",
+      "type": "dimension"
     },
     "8": {
-      "value": 37,
-      "type": "number"
+      "value": "37px",
+      "type": "dimension"
     },
     "9": {
-      "value": 41,
-      "type": "number"
+      "value": "41px",
+      "type": "dimension"
     },
     "10": {
-      "value": 46,
-      "type": "number"
+      "value": "46px",
+      "type": "dimension"
     },
     "11": {
-      "value": 51,
-      "type": "number"
+      "value": "51px",
+      "type": "dimension"
     },
     "12": {
-      "value": 55,
-      "type": "number"
+      "value": "55px",
+      "type": "dimension"
     },
     "13": {
-      "value": 60,
-      "type": "number"
+      "value": "60px",
+      "type": "dimension"
     },
     "14": {
-      "value": 65,
-      "type": "number"
+      "value": "65px",
+      "type": "dimension"
     },
     "15": {
-      "value": 69,
-      "type": "number"
+      "value": "69px",
+      "type": "dimension"
     },
     "18": {
-      "value": 83,
-      "type": "number"
+      "value": "83px",
+      "type": "dimension"
     },
     "22": {
-      "value": 102,
-      "type": "number"
+      "value": "102px",
+      "type": "dimension"
     },
     "26": {
-      "value": 121,
-      "type": "number"
+      "value": "121px",
+      "type": "dimension"
     },
     "30": {
-      "value": 139,
-      "type": "number"
+      "value": "139px",
+      "type": "dimension"
     },
     "mode-font-size": {
-      "value": 21,
-      "type": "number"
+      "value": "21px",
+      "type": "dimension"
     },
     "base": {
-      "value": 18,
-      "type": "number"
+      "value": "18px",
+      "type": "dimension"
     },
     "step": {
-      "value": 4,
-      "type": "number"
+      "value": "4px",
+      "type": "dimension"
     }
   }
 }

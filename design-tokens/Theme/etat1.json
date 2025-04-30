@@ -351,36 +351,36 @@
   },
   "border-radius": {
     "1": {
-      "value": 2,
-      "type": "number"
+      "value": "2px",
+      "type": "dimension"
     },
     "2": {
-      "value": 4,
-      "type": "number"
+      "value": "4px",
+      "type": "dimension"
     },
     "3": {
-      "value": 8,
-      "type": "number"
+      "value": "8px",
+      "type": "dimension"
     },
     "4": {
-      "value": 12,
-      "type": "number"
+      "value": "12px",
+      "type": "dimension"
     },
     "5": {
       "value": "{border-radius.base}",
       "type": "number"
     },
     "6": {
-      "value": 9999,
-      "type": "number"
+      "value": "9999px",
+      "type": "dimension"
     },
     "base": {
-      "value": 4,
-      "type": "number"
+      "value": "4px",
+      "type": "dimension"
     },
     "scale": {
-      "value": 4,
-      "type": "number"
+      "value": "4px",
+      "type": "dimension"
     }
   }
 }
