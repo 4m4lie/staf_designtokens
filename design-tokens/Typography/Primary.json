@@ -1,16 +1,16 @@
 {
   "etat1": {
     "font-family": {
-      "value": "Open Sans",
+      "value": "Inter",
       "type": "text"
     },
     "font-weight": {
       "medium": {
-        "value": "SemiBold",
+        "value": "Medium",
         "type": "text"
       },
       "semibold": {
-        "value": "Bold",
+        "value": "SemiBold",
         "type": "text"
       },
       "regular": {
