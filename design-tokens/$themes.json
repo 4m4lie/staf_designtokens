@@ -1914,5 +1914,20 @@
     },
     "$figmaModeId": "44797:0",
     "$figmaCollectionId": "VariableCollectionId:36248:20769"
+  },
+  {
+    "id": "theme-etat2",
+    "name": "etat2",
+    "group": "Theme",
+    "selectedTokenSets": {
+      "Theme/etat2": "enabled"
+    },
+    "$figmaStyleReferences": {},
+    "$figmaVariableReferences": {
+      "font-weight.medium": "5c7eecdaada5f53155b7c9b83b114690c7cf6e61",
+      "font-family": "40fc2f3e08457e885319cb03488a623761db2d7d"
+    },
+    "$figmaModeId": "40960:7",
+    "$figmaCollectionId": "VariableCollectionId:12551:5104"
   }
 ]
